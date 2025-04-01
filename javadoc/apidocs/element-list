@@ -1,0 +1,6 @@
+pl.pz1.poker.client
+pl.pz1.poker.evaluator
+pl.pz1.poker.gameplay
+pl.pz1.poker.moves
+pl.pz1.poker.server
+pl.pz1.poker.util.parser

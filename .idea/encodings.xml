@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JacocoReport/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JacocoReport/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/integration-tests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/integration-tests/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poker-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poker-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poker-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poker-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poker-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poker-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poker-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poker-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poker-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
